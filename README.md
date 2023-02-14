@@ -36,10 +36,4 @@
     </div>
 </br>
 
-## 
-
- <div align="right">
-    
-</div>
-
-![snake gif](https://github.com/Leticia-Rossii/Leticia-Rossii/blob/output/github-contribution-grid-snake.svg)
+##
