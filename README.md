@@ -6,4 +6,4 @@
 - ⚡ Curiosidade: Estou em processo de transição de carreira
 - 📫 Como entrar em contato comigo: ...
 
-![snake gif](https://github.com/Leticia-Rossii/Leticia-Rossii/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leticia-rossii/leticia-rossii/blob/output/github-contribution-grid-snake.svg)
